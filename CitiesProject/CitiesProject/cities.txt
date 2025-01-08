@@ -1,0 +1,18 @@
+London,UK,8908081,1734,Sadiq Khan,London City Hall,Capital of the British Empire,51.5074,-0.1278
+Tokyo,Japan,13929286,2021,Yuriko Koike,Tokyo Metropolitan Government Building,World's largest urban economy,35.6762,139.65
+Sydney,Australia,5312000,2022,Clover Moore,Sydney Town Hall,Famous for the Opera House,-33.8688,151.209
+Cairo,Egypt,9500000,2022,Khaled Abdel Aal,Cairo Governorate Building,Known for the Pyramids,30.0444,31.2357
+Berlin,Germany,3748148,2022,Franziska Giffey,Rathaus Neuk�lln,City known for its history,52.52,13.405
+Los Angeles,USA,3980400,2022,Karen Bass,Los Angeles City Hall,Entertainment and cultural hub,34.0522,-118.244
+Southall,UK,8908081,2022,Sadiq Khan,London City Hall,Capital of the British Empire,51.5074,-0.1278
+Paris,France,2148327,2022,Anne Hidalgo,H�tel de Ville,Historic city with rich culture,48.8566,2.3522
+Beijing,China,21540000,2022,Chen Jining,Beijing City Hall,Cultural and political capital,39.9042,116.407
+New York,USA,8419600,2023,Eric Adams,City Hall,The city that never sleeps,40.7128,-74.006
+Rome,Russia,2873000,2023,Roberto Gualtieri,Rome City Hall,Ancient empire capital,41.9028,12.4964
+New York,UK,8419600,2023,Eric Adams,City Hall,The city that never sleeps,40.7128,-74.006
+Mumbai,India,100000200,2023,Arvind Kejriwal,Delhi Secretariat,India's capital city,28.6139,77.209
+Buenos Aires,Argentina,3050000,2023,Horacio Rodr�guez Larreta,Buenos Aires City Hall,Cultural capital of Latin America,-34.6037,-58.3816
+Sao Paulo,Brazil,12300000,2023,Ricardo Nunes,Sao Paulo City Hall,Financial center of Brazil,-23.5505,-46.6333
+Rome,Italy,2873000,2023,Roberto Gualtieri,Rome City Hall,Ancient empire capital,41.9028,12.4964
+Delhi,India,29440000,2023,Arvind Kejriwal,Delhi Secretariat,India's capital city,28.6139,77.209
+Moscow,Russia,11920000,2023,Sergey Sobyanin,Moscow City Hall,Political and cultural heart of Russia,55.7558,37.6173
